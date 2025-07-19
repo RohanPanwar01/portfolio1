@@ -888,3 +888,15 @@ top i
 {
 	width:90%;
 }
+
+/* updated code  */
+
+
+.lp{
+	margin-top:-190px;
+}
+
+.skills{
+	display: flex;
+	flex-wrap: wrap;
+}
